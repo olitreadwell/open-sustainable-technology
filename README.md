@@ -1347,7 +1347,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [LCAx](https://github.com/ocni-dtu/lcax) - The goal for LCAx is to make an open, machine and human-readable data format for exchanging LCA results, EPD's and assemblies.
 - [ecobalyse](https://github.com/MTES-MCT/ecobalyse) - Ecobalyse makes it possible to understand and calculate the ecological impacts of the products distributed in France.
 - [lca_algebraic](https://github.com/oie-mines-paristech/lca_algebraic) - This library is a small layer above brightway2, designed for the definition of parametric inventories with fast computation of LCA impacts, suitable for monte-carlo analyis.
-- [UN/CEFACT CRM](https://github.com/uncefact/project-crm) - Critical raw materials traceability & transparency project.
+- [UN/CEFACT CRM](https://github.com/webilhan/project-crm) - Critical raw materials traceability & transparency project.
 - [Doughnut Biotool](https://github.com/NFrancart/doughnut-biotool) - A tool to calculate a building project's impacts on biodiversity over the entire life cycle.
 - [saleos](https://github.com/Bonface-Osoro/saleos) - Sustainability Analytics for Low Earth Orbit Satellites.
 - [timex_lca](https://github.com/TimoDiepers/timex) - A Python package for time-explicit Life Cycle Assessment that helps you assess the environmental impacts of products and processes over time.
