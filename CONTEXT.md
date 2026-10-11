@@ -46,7 +46,9 @@
 - 2026-08-12 self-found LiAISON link -> fork PRs #4 + #5 - closed, "low-value trivial fix".
 - 2026-08-19 self-found 3 dead links (LiAISON, UN/CEFACT CRM, GED) -> fork PR #7 - closed, "low-value trivial fix".
 - 2026-09-25 / 09-26 / 09-27 scheduled loop -> engine-failure, no trace left (3 runs).
-- 2026-10-11 issue #1613 (maintainer-engaged) -> add Eco-Libre Life-Line to "Water Supply and Quality" -> fork PR (this run).
+- 2026-10-11 issue #1613 (maintainer-engaged) -> add Eco-Libre Life-Line to "Water Supply and Quality"
+  -> fork PR https://github.com/olitreadwell/open-sustainable-technology/pull/13 (branch `Add-Life-Line`,
+  base fork `main`, non-draft, 1 commit e39df64, +1 line). Fork CI green (`CI`/Awesome_Lint + fetch). Open.
 
 ## Mined gaps (discovered, not yet attempted)
 - 2026-10-11 docs `mkdocs.yml` nav points at `blog/the_open_source_sustainability_ecosystem.md` and
