@@ -3119,6 +3119,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [Top Of The Poops](https://github.com/top-poop/top-of-the-poops) - Analysing Sewage Information from the UK Environment Agency.
 - [UK Sewage Map](https://github.com/JonnyDawe/UK-Sewage-Map) - A real-time visualization tool showing river sections affected by sewage discharges from combined sewer overflows across the UK.
 - [Wastewater Catchment Areas in Great Britain](https://github.com/tillahoffmann/wastewater-catchment-areas) - This repository provides code to consolidate wastewater catchment areas in Great Britain and evaluate their spatial overlap with statistical reporting units, such as Lower Layer Super Output Areas.
+- [Eco-Libre Life-Line](https://github.com/Eco-Libre/life-line) - An open hardware raw water intake, filtration and storage system for off-grid communities, documented with CAD designs and build instructions.
 
 ### Soil and Land
 
