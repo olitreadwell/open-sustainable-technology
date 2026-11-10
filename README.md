@@ -2408,7 +2408,6 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [SHARPpy](https://github.com/sharppy/SHARPpy) - A collection of open source sounding and hodograph analysis routines, a sounding plotting package, and an interactive, cross-platform application for analyzing real-time soundings all written in Python.
 - [AC_tools](https://github.com/tsherwen/AC_tools) - Contains functions and scripts used for working with atmospheric model output and observational data.
 - [ACT](https://github.com/ARM-DOE/ACT) - The Atmospheric data Community Toolkit is an open source Python toolkit for working with atmospheric time-series datasets of varying dimensions.
-- [Freva](https://gitlab.dkrz.de/freva/evaluation_system) - A data search and analysis platform developed by the atmospheric science community for the atmospheric science community.
 - [SpeedyWeather.jl](https://github.com/SpeedyWeather/SpeedyWeather.jl) - A global spectral atmospheric model with simple physics which is developed as a research playground with an everything-flexible attitude as long as it is speedy.
 - [A-Profiles](https://github.com/AugustinMortier/a-profiles) - A Python library dedicated to the analysis of atmospheric profilers measurements.
 - [LROSE](https://github.com/ncar/lrose-core) - The Lidar Radar Open Software Environment for Atmospheric Science.
@@ -2800,7 +2799,7 @@ Your contribution is essential to [keep this initative alive](https://opencollec
 - [xscen](https://github.com/Ouranosinc/xscen) - A climate change scenario-building analysis framework, built with Intake-esm catalogs and xarray-based packages such as xclim and xESMF.
 - [w2w](https://github.com/matthiasdemuzere/w2w) - A WUDAPT-to-WRF Python tool that injects World Urban Database and Access Portal Tools (WUDAPT)'s  Local Climate Zone information into WRF.
 - [Climate Tool](https://gitlab.com/then-try-this/climate-tool) - A tool for connecting together scientific information across climate, health and policy in the UK.
-- [freva](https://github.com/FREVA-CLINT/freva) - A data search and analysis platform developed by the atmospheric science community.
+- [freva](https://github.com/freva-org/freva-nextgen) - A data search and analysis platform developed by the atmospheric science community.
 - [Climate_Indices](https://github.com/monocongo/climate_indices) - Contains Python implementations of various climate index algorithms which provide a geographical and temporal picture of the severity of precipitation and temperature anomalies useful for climate monitoring and research.
 - [XCast](https://github.com/kjhall01/xcast) - A free and open source climate forecasting toolkit written by Kyle Hall & Nachiketa Acharya, designed to help forecasters and earth scientists apply state-of-the-art postprocessing techniques to gridded data sets.
 - [GDESS](https://github.com/E3SM-Project/gdess) - Tool for evaluating atmospheric carbon dioxide concentrations as simulated by Earth system models.
